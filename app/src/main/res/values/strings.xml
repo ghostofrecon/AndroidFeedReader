@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FeedReader</string>
+    <string name="title_feeditem_detail">FeedItem Detail</string>
+</resources>
